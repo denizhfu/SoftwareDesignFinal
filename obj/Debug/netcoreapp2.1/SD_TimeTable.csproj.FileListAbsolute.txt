@@ -1,0 +1,11 @@
+/Users/denizoezcan/Desktop/SD_TimeTable/obj/Debug/netcoreapp2.1/SD_TimeTable.csprojAssemblyReference.cache
+/Users/denizoezcan/Desktop/SD_TimeTable/obj/Debug/netcoreapp2.1/SD_TimeTable.csproj.CoreCompileInputs.cache
+/Users/denizoezcan/Desktop/SD_TimeTable/obj/Debug/netcoreapp2.1/SD_TimeTable.AssemblyInfoInputs.cache
+/Users/denizoezcan/Desktop/SD_TimeTable/obj/Debug/netcoreapp2.1/SD_TimeTable.AssemblyInfo.cs
+/Users/denizoezcan/Desktop/SD_TimeTable/bin/Debug/netcoreapp2.1/SD_TimeTable.deps.json
+/Users/denizoezcan/Desktop/SD_TimeTable/bin/Debug/netcoreapp2.1/SD_TimeTable.runtimeconfig.json
+/Users/denizoezcan/Desktop/SD_TimeTable/bin/Debug/netcoreapp2.1/SD_TimeTable.runtimeconfig.dev.json
+/Users/denizoezcan/Desktop/SD_TimeTable/bin/Debug/netcoreapp2.1/SD_TimeTable.dll
+/Users/denizoezcan/Desktop/SD_TimeTable/bin/Debug/netcoreapp2.1/SD_TimeTable.pdb
+/Users/denizoezcan/Desktop/SD_TimeTable/obj/Debug/netcoreapp2.1/SD_TimeTable.dll
+/Users/denizoezcan/Desktop/SD_TimeTable/obj/Debug/netcoreapp2.1/SD_TimeTable.pdb

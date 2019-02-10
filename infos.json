@@ -1,0 +1,768 @@
+{
+    "ListeAllerStudiengaenge": [
+        {
+            "id": 0,
+            "name": "OMB",
+            "semester": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 1,
+            "name": "MKB",
+            "semester": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "id": 2,
+            "name": "MIB",
+            "semester": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    ],
+    "semester": [
+        {
+            "id": 0,
+            "semesterNumber": 1,
+            "alleKurseDerW": []
+        },
+        {
+            "id": 1,
+            "semesterNumber": 2,
+            "alleKurseDerW": []
+        },
+        {
+            "id": 2,
+            "semesterNumber": 3,
+            "alleKurseDerW": []
+        },
+        {
+            "id": 3,
+            "semesterNumber": 4,
+            "alleKurseDerW": []
+        },
+        {
+            "id": 4,
+            "semesterNumber": 5,
+            "alleKurseDerW": []
+        },
+        {
+            "id": 5,
+            "semesterNumber": 6,
+            "alleKurseDerW": []
+        }
+    ],
+    "dozenten": [
+        {
+            "id": 0,
+            "name": "Schneider"
+        },
+        {
+            "id": 1,
+            "name": "Müller"
+        },
+        {
+            "id": 2,
+            "name": "Laowski"
+        },
+        {
+            "id": 3,
+            "name": "Görtler"
+        },
+        {
+            "id": 4,
+            "name": "Samir"
+        },
+        {
+            "id": 5,
+            "name": "Deniz"
+        },
+        {
+            "id": 6,
+            "name": "Jo"
+        },
+        {
+            "id": 7,
+            "name": "Dani"
+        },
+        {
+            "id": 8,
+            "name": "Tim"
+        },
+        {
+            "id": 9,
+            "name": "Theresa"
+        },
+        {
+            "id": 10,
+            "name": "Verena"
+        },
+        {
+            "id": 11,
+            "name": "Fabi"
+        },
+        {
+            "id": 12,
+            "name": "jabo"
+        },
+        {
+            "id": 13,
+            "name": "Alex"
+        },
+        {
+            "id": 14,
+            "name": "Mark"
+        },
+        {
+            "id": 15,
+            "name": "Steffen"
+        }
+    ],
+    "raeume": [
+        {
+            "id": 0,
+            "raumNr": "FU L-1.01",
+            "ausstattung": 1,
+            "sgang": "MIB"
+        },
+        {
+            "id": 1,
+            "raumNr": "FU L-1.06",
+            "ausstattung": 1,
+            "sgang": "MIB"
+        },
+        {
+            "id": 1,
+            "raumNr": "FU I-0.15",
+            "ausstattung": 2,
+            "sgang": "MIB"
+        },
+        {
+            "id": 1,
+            "raumNr": "FU C-2.10",
+            "ausstattung": 0,
+            "sgang": "MIB"
+        },
+        {
+            "id": 2,
+            "raumNr": "FU I-0.13",
+            "ausstattung": 2,
+            "sgang": "MIB"
+        },
+        {
+            "id": 1,
+            "raumNr": "FU I-0.15",
+            "ausstattung": 2,
+            "sgang": "MIB"
+        },
+        {
+            "id": 1,
+            "raumNr": "FU C-2.10",
+            "ausstattung": 0,
+            "sgang": "OMB"
+        },
+        {
+            "id": 2,
+            "raumNr": "FU I-0.13",
+            "ausstattung": 2,
+            "sgang": "MKB"
+        },
+        {
+            "id": 1,
+            "raumNr": "FU C-2.17",
+            "ausstattung": 0,
+            "sgang": "MKB"
+        },
+        {
+            "id": 2,
+            "raumNr": "FU I-0.03",
+            "ausstattung": 2,
+            "sgang": "OMB"
+        }
+    ],
+    "kurse": [
+        {
+            "id": 0,
+            "dozent": 0,
+            "name": "MIB1-Kurs1",
+            "anforderungen": 0,
+            "studieng": "MIB1",
+            "semest": 1
+        },
+        {
+            "id": 1,
+            "dozent": 1,
+            "name": "MIB1-Kurs2",
+            "anforderungen": 2,
+            "studieng": "MIB",
+            "semest": 1
+        },
+        {
+            "id": 2,
+            "dozent": 2,
+            "name": "MIB1-Kurs3",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 1
+        },
+        {
+            "id": 3,
+            "dozent": 3,
+            "name": "MIB1-Kurs4",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 1
+        },
+        {
+            "id": 4,
+            "dozent": 4,
+            "name": "MIB1-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MIB",
+            "semest": 1
+        },
+        {
+            "id": 5,
+            "dozent": 5,
+            "name": "OMB-Kurs1",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 1
+        },
+        {
+            "id": 6,
+            "dozent": 6,
+            "name": "OMB1-Kurs2",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 1
+        },
+        {
+            "id": 7,
+            "dozent": 7,
+            "name": "OMB1-Kurs3",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 1
+        },
+        {
+            "id": 8,
+            "dozent": 8,
+            "name": "OMB1-Kurs4",
+            "anforderungen": 1,
+            "studieng": "OMB",
+            "semest": 1
+        },
+        {
+            "id": 9,
+            "dozent": 9,
+            "name": "OMB1-Kurs5",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 1
+        },
+        {
+            "id": 10,
+            "dozent": 10,
+            "name": "MKB1-Kurs1",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 1
+        },
+        {
+            "id": 11,
+            "dozent": 11,
+            "name": "MKB1-Kurs2",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 1
+        },
+        {
+            "id": 12,
+            "dozent": 12,
+            "name": "MKB1-Kurs3",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 1
+        },
+        {
+            "id": 13,
+            "dozent": 13,
+            "name": "MKB1-Kurs4",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 1
+        },
+        {
+            "id": 14,
+            "dozent": 14,
+            "name": "MKB1-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 1
+        },
+        {
+            "id": 16,
+            "dozent": 0,
+            "name": "MIB2-Kurs1",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 2
+        },
+        {
+            "id": 17,
+            "dozent": 1,
+            "name": "MIB2-Kurs2",
+            "anforderungen": 2,
+            "studieng": "MIB",
+            "semest": 2
+        },
+        {
+            "id": 18,
+            "dozent": 2,
+            "name": "MIB2-Kurs3",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 2
+        },
+        {
+            "id": 19,
+            "dozent": 3,
+            "name": "MIB2-Kurs4",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 2
+        },
+        {
+            "id": 20,
+            "dozent": 4,
+            "name": "MIB2-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MIB",
+            "semest": 2
+        },
+
+        {
+            "id": 21,
+            "dozent": 5,
+            "name": "OMB2-Kurs1",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 2
+        },
+        {
+            "id": 22,
+            "dozent": 6,
+            "name": "OMB2-Kurs2",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 2
+        },
+        {
+            "id": 23,
+            "dozent": 7,
+            "name": "OMB2-Kurs3",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 2
+        },
+        {
+            "id": 24,
+            "dozent": 8,
+            "name": "OMB2-Kurs4",
+            "anforderungen": 1,
+            "studieng": "OMB",
+            "semest": 2
+        },
+        {
+            "id": 25,
+            "dozent": 9,
+            "name": "OMB2-Kurs5",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 2
+        },
+        {
+            "id": 26,
+            "dozent": 10,
+            "name": "MKB2-Kurs1",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 2
+        },
+        {
+            "id": 27,
+            "dozent": 11,
+            "name": "MKB2-Kurs2",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 2
+        },
+        {
+            "id": 28,
+            "dozent": 12,
+            "name": "MKB2-Kurs3",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 2
+        },
+        {
+            "id": 29,
+            "dozent": 13,
+            "name": "MKB1-Kurs4",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 2
+        },
+        {
+            "id": 30,
+            "dozent": 14,
+            "name": "MKB2-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 2
+        },
+
+        {
+            "id": 31,
+            "dozent": 0,
+            "name": "MIB3-Kurs1",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 3
+        },
+        {
+            "id": 32,
+            "dozent": 1,
+            "name": "MIB3-Kurs2",
+            "anforderungen": 2,
+            "studieng": "MIB",
+            "semest": 3
+        },
+        {
+            "id": 33,
+            "dozent": 2,
+            "name": "MIB3-Kurs3",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 3
+        },
+        {
+            "id": 34,
+            "dozent": 3,
+            "name": "MIB3-Kurs4",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 3
+        },
+        {
+            "id": 35,
+            "dozent": 4,
+            "name": "MIB3-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MIB",
+            "semest": 3
+        },
+        {
+            "id": 36,
+            "dozent": 5,
+            "name": "OMB3-Kurs1",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 3
+        },
+        {
+            "id": 37,
+            "dozent": 6,
+            "name": "OMB3-Kurs2",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 3
+        },
+        {
+            "id": 38,
+            "dozent": 7,
+            "name": "OMB3-Kurs3",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 3
+        },
+        {
+            "id": 39,
+            "dozent": 8,
+            "name": "OMB3-Kurs4",
+            "anforderungen": 1,
+            "studieng": "OMB",
+            "semest": 3
+        },
+        {
+            "id": 40,
+            "dozent": 9,
+            "name": "OMB3-Kurs5",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 3
+        },
+        {
+            "id": 41,
+            "dozent": 10,
+            "name": "MKB3-Kurs1",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 3
+        },
+        {
+            "id": 42,
+            "dozent": 11,
+            "name": "MKB3-Kurs2",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 3
+        },
+        {
+            "id": 43,
+            "dozent": 12,
+            "name": "MKB3-Kurs3",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 4
+        },
+        {
+            "id": 44,
+            "dozent": 13,
+            "name": "MKB3-Kurs4",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 3
+        },
+        {
+            "id": 45,
+            "dozent": 14,
+            "name": "MKB3-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 3
+        },
+        {
+            "id": 46,
+            "dozent": 0,
+            "name": "MIB4-Kurs4",
+            "anforderungen": 0,
+            "studieng": "MIB4",
+            "semest": 4
+        },
+        {
+            "id": 47,
+            "dozent": 4,
+            "name": "MIB4-Kurs2",
+            "anforderungen": 2,
+            "studieng": "MIB",
+            "semest": 4
+        },
+        {
+            "id": 48,
+            "dozent": 2,
+            "name": "MIB4-Kurs3",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 4
+        },
+        {
+            "id": 49,
+            "dozent": 3,
+            "name": "MIB4-Kurs4",
+            "anforderungen": 0,
+            "studieng": "MIB",
+            "semest": 4
+        },
+        {
+            "id": 50,
+            "dozent": 4,
+            "name": "MIB4-Kurs5",
+            "anforderungen": 4,
+            "studieng": "MIB",
+            "semest": 4
+        },
+        {
+            "id": 51,
+            "dozent": 5,
+            "name": "OMB4-Kurs1",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 4
+        },
+        {
+            "id": 52,
+            "dozent": 6,
+            "name": "OMB4-Kurs2",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 4
+        },
+        {
+            "id": 53,
+            "dozent": 7,
+            "name": "OMB4-Kurs4",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 4
+        },
+        {
+            "id": 54,
+            "dozent": 8,
+            "name": "OMB4-Kurs4",
+            "anforderungen": 1,
+            "studieng": "OMB",
+            "semest": 4
+        },
+        {
+            "id": 55,
+            "dozent": 9,
+            "name": "OMB4-Kurs5",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 4
+        },
+        {
+            "id": 56,
+            "dozent": 10,
+            "name": "MKB4-Kurs1",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 4
+        },
+        {
+            "id": 57,
+            "dozent": 11,
+            "name": "MKB4-Kurs2",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 4
+        },
+        {
+            "id": 58,
+            "dozent": 12,
+            "name": "MKB4-Kurs3",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 4
+        },
+        {
+            "id": 59,
+            "dozent": 13,
+            "name": "MKB4-Kurs4",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 4
+        },
+        {
+            "id": 60,
+            "dozent": 14,
+            "name": "MKB4-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 4
+        },
+        {
+            "id": 61,
+            "dozent": 10,
+            "name": "MKB5-Kurs1",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 5
+        },
+        {
+            "id": 62,
+            "dozent": 11,
+            "name": "MKB5-Kurs2",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 5
+        },
+        {
+            "id": 63,
+            "dozent": 12,
+            "name": "MKB5-Kurs3",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 5
+        },
+        {
+            "id": 64,
+            "dozent": 13,
+            "name": "MKB5-Kurs4",
+            "anforderungen": 2,
+            "studieng": "MKB",
+            "semest": 5
+        },
+        {
+            "id": 65,
+            "dozent": 14,
+            "name": "MKB5-Kurs5",
+            "anforderungen": 1,
+            "studieng": "MKB",
+            "semest": 5
+        },
+        {
+            "id": 66,
+            "dozent": 5,
+            "name": "OMB5-Kurs1",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 5
+        },
+        {
+            "id": 67,
+            "dozent": 6,
+            "name": "OMB5-Kurs2",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 5
+        },
+        {
+            "id": 68,
+            "dozent": 7,
+            "name": "OMB5-Kurs4",
+            "anforderungen": 0,
+            "studieng": "OMB",
+            "semest": 5
+        },
+        {
+            "id": 69,
+            "dozent": 8,
+            "name": "OMB5-Kurs4",
+            "anforderungen": 1,
+            "studieng": "OMB",
+            "semest": 5
+        },
+        {
+            "id": 70,
+            "dozent": 9,
+            "name": "OMB5-Kurs5",
+            "anforderungen": 2,
+            "studieng": "OMB",
+            "semest": 5
+        }
+
+    ]
+}
